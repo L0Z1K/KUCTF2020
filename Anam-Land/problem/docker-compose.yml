@@ -1,0 +1,10 @@
+version: '3'
+
+services:
+  chall:
+    build: .
+    ports:
+      - "7778:7778"
+    volumes:
+      - ./server:/home/casino
+      - ./xinetd:/etc/xinetd.d/casino
