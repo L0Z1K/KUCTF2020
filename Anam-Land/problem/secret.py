@@ -1,0 +1,1 @@
+FLAG = "KOREA{I_M3ss3d_up_my_R4nd0m_G3n3r4t0R}"
